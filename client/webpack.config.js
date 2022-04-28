@@ -22,9 +22,9 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html',
-        title: 'Webpack Plugin',
+        title: 'Just Another Text Editor',
       }),
-      new GenerateSW(),
+      // new GenerateSW(),
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
