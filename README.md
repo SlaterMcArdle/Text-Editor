@@ -9,7 +9,10 @@
   - [License](#license)
   - [Questions](#questions)
   ## Description
-  A simple text editor PWA, built using Webpack and deployed on Heroku
+  A simple text editor PWA, built using Webpack and deployed on Heroku. See examples of the manifest and swevice worker below.
+
+  ![ScreenShot](./screenshots/Screenshot_01.png)
+  ![ScreenShot](./screenshots/Screenshot_02.png)
 
   ## Installation Instructions
   Go to [The Webpage]( https://young-wildwood-92099.herokuapp.com/) and click the install! button
